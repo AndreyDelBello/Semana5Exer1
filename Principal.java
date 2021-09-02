@@ -6,6 +6,7 @@ public class Principal{
         Exer2Semana5 e2=new Exer2Semana5();
         e2.par_impar();
         Exer3Semana5 e3=new Exer3Semana5();
+        e3.imprimaForS();
     }
 
 }
